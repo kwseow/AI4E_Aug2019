@@ -1,6 +1,6 @@
 # AI4E Aug 2019
 
-* Instructions
+## Instructions
 + Download pdf (this presentation deck and activity sheets)
 + Download sample scripts
 + Links to other resources.  Save you the typing!
